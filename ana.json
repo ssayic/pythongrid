@@ -3,12 +3,12 @@
     "id": "1",
     "isim": "AC/DC Motorlar",
     "aciklama": "ac dc motor açıklaması",
-    "gorsel": "https://localhost/shop/muz.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/muz.png"
   },
   {
     "id": "2",
     "isim": "Redüktör",
     "aciklama": "redüktör açıklaması",
-    "gorsel": "https://localhost/shop/elma.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/muz.png"
   }
 ]
