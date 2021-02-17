@@ -1,44 +1,51 @@
 [
   {
-    "isim": "Omega",
     "id": "11",
     "anaid": "1",
+    "isim": "Omega",
+    "aciklama":"Açıklama Omega",
     "gorsel": "https://localhost/shop/muz.png"
   },
   {
-    "isim": "Kormas",
     "id": "12",
     "anaid": "1",
+    "isim": "Kormas",
+    "aciklama":"Açıklama Kormas",
     "gorsel": "https://localhost/shop/elma.png"
   },
   {
-    "isim": "Elk",
     "id": "13",
     "anaid": "1",
+    "isim": "Elk",
+    "aciklama":"Açıklama Elk",
     "gorsel": "https://localhost/shop/elma.png"
   },
   {
-    "isim": "Emtaş",
     "id": "14",
     "anaid": "1",
+    "isim": "Emtaş",
+    "aciklama":"Açıklama Emtaş",
     "gorsel": "https://localhost/shop/elma.png"
   },
   {
-    "isim": "İmak",
     "id": "21",
     "anaid": "2",
+    "isim": "İmak",
+    "aciklama":"Açıklama Imak",
     "gorsel": "https://localhost/shop/ceviz.png"
   },
   {
-    "isim": "Dişsan",
     "id": "22",
     "anaid": "2",
+    "isim": "Dişsan",
+    "aciklama":"Açıklama Dişsan",
     "gorsel": "https://localhost/shop/yulaf.png"
   },
   {
-    "isim": "Pds",
     "id": "23",
     "anaid": "2",
+    "isim": "Pds",
+    "aciklama":"Açıklama pds",
     "gorsel": "https://localhost/shop/yulaf.png"
   },
   {
