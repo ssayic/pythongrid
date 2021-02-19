@@ -4,54 +4,54 @@
     "anaid": "1",
     "isim": "Omega",
     "aciklama":"Açıklama Omega",
-    "gorsel": "https://localhost/shop/muz.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/motor.png"
   },
   {
     "id": "12",
     "anaid": "1",
     "isim": "Kormas",
     "aciklama":"Açıklama Kormas",
-    "gorsel": "https://localhost/shop/elma.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/motor.png"
   },
   {
     "id": "13",
     "anaid": "1",
     "isim": "Elk",
     "aciklama":"Açıklama Elk",
-    "gorsel": "https://localhost/shop/elma.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/motor.png"
   },
   {
     "id": "14",
     "anaid": "1",
     "isim": "Emtaş",
     "aciklama":"Açıklama Emtaş",
-    "gorsel": "https://localhost/shop/elma.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/motor.png"
   },
   {
     "id": "21",
     "anaid": "2",
     "isim": "İmak",
     "aciklama":"Açıklama Imak",
-    "gorsel": "https://localhost/shop/ceviz.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/reduktor.png"
   },
   {
     "id": "22",
     "anaid": "2",
     "isim": "Dişsan",
     "aciklama":"Açıklama Dişsan",
-    "gorsel": "https://localhost/shop/yulaf.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/reduktor.png"
   },
   {
     "id": "23",
     "anaid": "2",
     "isim": "Pds",
     "aciklama":"Açıklama pds",
-    "gorsel": "https://localhost/shop/yulaf.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/reduktor.png"
   },
   {
     "isim": "Limöz",
     "id": "24",
     "anaid": "2",
-    "gorsel": "https://localhost/shop/yulaf.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/reduktor.png"
   }
 ]
