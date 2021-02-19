@@ -1,14 +1,38 @@
 [
   {
     "id": "1",
+    "isim": "Redüktör",
+    "aciklama": "redüktör açıklaması",
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/reduktor.png"
+  },
+  {
+    "id": "2",
     "isim": "AC/DC Motorlar",
     "aciklama": "ac dc motor açıklaması",
     "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/motor.png"
   },
   {
-    "id": "2",
-    "isim": "Redüktör",
+    "id": "3",
+    "isim": "Vibrasyon Motorları",
     "aciklama": "redüktör açıklaması",
-    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/reduktor.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/vibrasyon.jpg"
+  },
+  {
+    "id": "4",
+    "isim": "Elektro Manyetik Fren",
+    "aciklama": "redüktör açıklaması",
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/fren.jpg"
+  },
+  {
+    "id": "5",
+    "isim": "Kaplin",
+    "aciklama": "redüktör açıklaması",
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/kaplin.jpg"
+  },
+  {
+    "id": "6",
+    "isim": "Sürücüler",
+    "aciklama": "redüktör açıklaması",
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/surucu.jpg"
   }
 ]
