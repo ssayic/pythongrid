@@ -46,12 +46,12 @@
     "anaid": "2",
     "isim": "Pds",
     "aciklama":"Açıklama pds",
-    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/pds.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/pds.jpg"
   },
   {
     "isim": "Limöz",
     "id": "24",
     "anaid": "2",
-    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/limoz.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/limoz.jpg"
   }
 ]
