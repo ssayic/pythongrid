@@ -1,0 +1,65 @@
+[
+  {
+    "id": "11",
+    "markaid": "11",
+    "isim": "Monoblok Helisel Dişli Redüktörler (İR Serisi)",
+    "aciklama": "Açıklama Omega",
+    "html": "İR Serisi Redüktörlerin Genel Özellikleri",
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/omega.jpg"
+  },
+  {
+    "id": "12",
+    "markaid": "12",
+    "isim": "Kormas",
+    "aciklama": "Açıklama Kormas",
+    "html": "",
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/kormas.jpg"
+  },
+  {
+    "id": "13",
+    "markaid": "13",
+    "isim": "Elk",
+    "aciklama": "Açıklama Elk",
+    "html": "",
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/elk.jpg"
+  },
+  {
+    "id": "14",
+    "markaid": "14",
+    "isim": "Emtaş",
+    "aciklama": "Açıklama Emtaş",
+    "html": "",
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/emtas.jpg"
+  },
+  {
+    "id": "21",
+    "markaid": "21",
+    "isim": "İmak",
+    "aciklama": "Açıklama Imak",
+    "html": "",
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/imak.jpg"
+  },
+  {
+    "id": "22",
+    "markaid": "22",
+    "isim": "Dişsan",
+    "aciklama": "Açıklama Dişsan",
+    "html": "",
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/dissan.jpg"
+  },
+  {
+    "id": "23",
+    "markaid": "23",
+    "isim": "Pds",
+    "aciklama": "Açıklama pds",
+    "html": "",
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/pds.jpg"
+  },
+  {
+    "id": "24",
+    "markaid": "24",
+    "isim": "Limöz",
+    "html": "",
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/limoz.jpg"
+  }
+]
