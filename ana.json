@@ -1,12 +1,12 @@
 [
   {
-    "id": "1",
+    "id": "2",
     "isim": "Redüktör",
     "aciklama": "redüktör açıklaması",
     "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/reduktor.png"
   },
   {
-    "id": "2",
+    "id": "1",
     "isim": "AC/DC Motorlar",
     "aciklama": "ac dc motor açıklaması",
     "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/motor.png"
