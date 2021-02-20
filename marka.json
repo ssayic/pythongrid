@@ -1,49 +1,49 @@
 [
   {
     "id": "11",
-    "anaid": "1",
+    "anaid": "2",
     "isim": "Omega",
     "aciklama":"Açıklama Omega",
     "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/omega.jpg"
   },
   {
     "id": "12",
-    "anaid": "1",
+    "anaid": "2",
     "isim": "Kormas",
     "aciklama":"Açıklama Kormas",
     "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/kormas.jpg"
   },
   {
     "id": "13",
-    "anaid": "1",
+    "anaid": "2",
     "isim": "Elk",
     "aciklama":"Açıklama Elk",
     "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/elk.jpg"
   },
   {
     "id": "14",
-    "anaid": "1",
+    "anaid": "2",
     "isim": "Emtaş",
     "aciklama":"Açıklama Emtaş",
     "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/emtas.jpg"
   },
   {
     "id": "21",
-    "anaid": "2",
+    "anaid": "1",
     "isim": "İmak",
     "aciklama":"Açıklama Imak",
     "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/imak.jpg"
   },
   {
     "id": "22",
-    "anaid": "2",
+    "anaid": "1",
     "isim": "Dişsan",
     "aciklama":"Açıklama Dişsan",
     "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/dissan.jpg"
   },
   {
     "id": "23",
-    "anaid": "2",
+    "anaid": "1",
     "isim": "Pds",
     "aciklama":"Açıklama pds",
     "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/pds.jpg"
@@ -51,7 +51,7 @@
   {
     "isim": "Limöz",
     "id": "24",
-    "anaid": "2",
+    "anaid": "1",
     "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/limoz.jpg"
   }
 ]
