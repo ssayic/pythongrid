@@ -3,13 +3,13 @@
     "id": "1",
     "isim": "Redüktör",
     "aciklama": "redüktör açıklaması",
-    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/reduktor.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/reduktor.jpg"
   },
   {
     "id": "2",
     "isim": "AC/DC Motorlar",
     "aciklama": "ac dc motor açıklaması",
-    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/motor.png"
+    "gorsel": "https://raw.githubusercontent.com/ssayic/pythongrid/master/motor.jpg"
   },
   {
     "id": "3",
