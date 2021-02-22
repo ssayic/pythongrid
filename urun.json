@@ -1,8 +1,8 @@
 [
   {
     "id": "11",
-    "modelid": "21",
-    "isim": "(İR Serisi)",
+    "modelid": "11",
+    "isim": "Urun11 (İR Serisi)",
     "aciklama": "Monoblok Helisel Dişli Redüktörler ",
     "htmlkisa": "İR Serisi Redüktörlerin Genel Özellikleri",
     "htmluzun": "",
@@ -10,7 +10,7 @@
   },
   {
     "id": "12",
-    "modelid": "21",
+    "modelid": "11",
     "isim": "(YP Serisi)",
     "aciklama": "Paralel Milli Redüktörler",
     "htmlkisa": "İR Serisi Redüktörlerin Genel Özellikleri",
@@ -19,8 +19,8 @@
   },
   {
     "id": "13",
-    "modelid": "21",
-    "isim": "(IRK Serisi)",
+    "modelid": "12",
+    "isim": "Urun 12 (IRK Serisi)",
     "aciklama": "Helisel Konik Dişlili Redüktörler ",
     "htmlkisa": "İR Serisi Redüktörlerin Genel Özellikleri",
     "htmluzun": "İR Serisi Redüktörlerin Genel Özellikleri",
@@ -28,8 +28,8 @@
   },
   {
     "id": "14",
-    "modelid": "21",
-    "isim": "(A - AE Serileri)",
+    "modelid": "12",
+    "isim": "Urun 12  (A - AE Serileri)",
     "aciklama": "Ağır Hizmet Extruder Tip Redüktörler ",
     "htmlkisa": "İR Serisi Redüktörlerin Genel Özellikleri",
     "htmluzun": "İR Serisi Redüktörlerin Genel Özellikleri",
@@ -37,8 +37,8 @@
   },
   {
     "id": "15",
-    "modelid": "21",
-    "isim": "(İRSD Serisi)",
+    "modelid": "12",
+    "isim": "Urun 12 (İRSD Serisi)",
     "aciklama": "Helisel Sonsuz Vidalı Redüktörler ",
     "htmlkisa": "İR Serisi Redüktörlerin Genel Özellikleri",
     "htmluzun": "İR Serisi Redüktörlerin Genel Özellikleri",
